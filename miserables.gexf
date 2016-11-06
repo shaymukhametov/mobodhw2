@@ -1,0 +1,2728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-11-06">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="500" label="senate">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1061.1738" y="-7.590408"></viz:position>
+        <viz:color r="201" g="34" b="6"></viz:color>
+      </node>
+      <node id="501" label="Afganistan, Pakistan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-48.923313" y="993.1651"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="502" label="war in Iraq">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-771.5203" y="582.76776"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="503" label="daily conversations">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="645.0695" y="545.6754"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="504" label="Brazil">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="537.55566" y="782.28217"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="505" label="China">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="961.8216" y="-155.95526"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="506" label="Israel and Palestine">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-123.10075" y="-836.188"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="507" label="conferences and visits">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-607.4171" y="-508.6298"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="508" label="voting research">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="176.46709" y="-878.13916"></viz:position>
+        <viz:color r="235" g="165" b="0"></viz:color>
+      </node>
+      <node id="509" label="Libya">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-992.3436" y="-279.87247"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="510" label="Mexico">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-502.36536" y="-729.6589"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="511" label="U.S. security">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="343.66443" y="951.3731"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="512" label="Anne-Marie Slaughter">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-590.15784" y="536.68634"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="513" label="Benghazi attack">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-996.29785" y="-59.753586"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="514" label="Diplomatic relations">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-869.85986" y="171.08339"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="515" label="Haiti earthquake">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-352.37585" y="903.63635"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="516" label="Honduras">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-397.22208" y="-964.05035"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="517" label="United Kingdom">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="26.279997" y="761.89374"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="518" label="support programs">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="902.80945" y="346.43857"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="519" label="schedule">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="812.3851" y="-410.40454"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="520" label="president and government">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="890.0511" y="635.8634"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="521" label="Lauren Jiloty">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="331.51596" y="-749.8023"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="522" label="family">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-516.36304" y="770.0509"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="523" label="nuclear programs">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="683.3733" y="-544.5896"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="524" label="Kris Balderston">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="643.6221" y="-734.21155"></viz:position>
+        <viz:color r="77" g="114" b="3"></viz:color>
+      </node>
+      <node id="105" label="chinese">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="404.01395" y="-80.458664"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="363" label="diplomacy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="443.71136" y="150.0253"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="365" label="global">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="631.91693" y="113.964005"></viz:position>
+        <viz:color r="91" g="195" b="15"></viz:color>
+      </node>
+      <node id="346" label="cameron">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="53.860233" y="414.93845"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="133" label="settlement">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-71.46238" y="-323.8933"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="273" label="05/13/2015">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-647.3628" y="-96.50988"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="286" label="issues">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-465.09964" y="116.55379"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="438" label="aug">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-170.89606" y="-561.4602"></viz:position>
+        <viz:color r="145" g="124" b="141"></viz:color>
+      </node>
+      <node id="13" label="turkish">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="350.9754" y="-22.512623"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="399" label="april">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="276.53162" y="-141.44148"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="440" label="thursday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="448.867" y="-205.7052"></viz:position>
+        <viz:color r="143" g="189" b="129"></viz:color>
+      </node>
+      <node id="396" label="nora">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="301.66223" y="-169.35854"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="400" label="cdm">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="241.40752" y="-135.72394"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="441" label="women">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-371.43954" y="537.3234"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="372" label="resources">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="274.88287" y="93.752075"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="343" label="brown">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="30.261229" y="453.91132"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="208" label="confidential">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-267.6468" y="-321.41385"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="324" label="wjc">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-199.1923" y="-450.6348"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="445" label="school">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-257.95105" y="369.59592"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="22" label="rights">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-33.175686" y="561.004"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="391" label="wednesday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="387.60736" y="-189.01619"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="296" label="noted">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-275.1262" y="1.5034221"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="237" label="force">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="56.283585" y="216.15372"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="235" label="leaders">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="125.605156" y="590.64294"></viz:position>
+        <viz:color r="147" g="126" b="76"></viz:color>
+      </node>
+      <node id="131" label="talks">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-40.193165" y="-354.01013"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="75" label="video">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="172.97935" y="156.45627"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="290" label="eikenberry">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-366.07483" y="69.08724"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="44" label="afghanistan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-262.01932" y="618.07245"></viz:position>
+        <viz:color r="92" g="84" b="191"></viz:color>
+      </node>
+      <node id="2" label="richard">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="509.23578" y="21.491323"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="190" label="qaddafi">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-418.89966" y="-90.90921"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="437" label="sun">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="159.47354" y="-333.79352"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="307" label="assistance">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-147.20801" y="362.61688"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="271" label="f-2015-04841">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-558.746" y="-85.67351"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="113" label="asia">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="200.74756" y="-79.71869"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="442" label="children">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-323.1644" y="441.79306"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="312" label="reconstruction">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-148.86647" y="285.29926"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="421" label="hdr22">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="217.18622" y="-550.01434"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="311" label="international">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="30.450542" y="625.0357"></viz:position>
+        <viz:color r="197" g="143" b="76"></viz:color>
+      </node>
+      <node id="362" label="public">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="466.44888" y="186.89067"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="480" label="told">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="539.77936" y="-28.825006"></viz:position>
+        <viz:color r="75" g="82" b="231"></viz:color>
+      </node>
+      <node id="388" label="friday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="577.83887" y="0.14389196"></viz:position>
+        <viz:color r="188" g="177" b="63"></viz:color>
+      </node>
+      <node id="461" label="iran">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="440.5544" y="-360.06262"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="101" label="china">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="577.29346" y="-112.58233"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="483" label="aid">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="308.69464" y="-356.88925"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="477" label="november">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="177.1259" y="-151.42798"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="45" label="iraq">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-419.7409" y="206.04614"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="310" label="earthquake">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-128.33519" y="313.26495"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="110" label="change">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="298.08713" y="-57.56529"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="73" label="great">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="218.15263" y="207.84895"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="439" label="dec">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="127.68093" y="-309.47797"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="154" label="30">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-308.05872" y="-238.5533"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="293" label="reports">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-340.4588" y="32.968502"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="225" label="military">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-193.26488" y="712.5924"></viz:position>
+        <viz:color r="173" g="158" b="108"></viz:color>
+      </node>
+      <node id="459" label="shanghai">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-166.4905" y="146.8998"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="150" label="depart">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-381.63162" y="-250.23485"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="443" label="family">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-122.59859" y="594.2869"></viz:position>
+        <viz:color r="170" g="122" b="51"></viz:color>
+      </node>
+      <node id="470" label="russia">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="291.07147" y="-227.10252"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="490" label="africa">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="591.6379" y="188.00063"></viz:position>
+        <viz:color r="49" g="128" b="45"></viz:color>
+      </node>
+      <node id="151" label="private">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-344.97043" y="-243.44604"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="267" label="select">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-670.5274" y="-176.94469"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="59" label="troops">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-217.43384" y="102.654884"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="455" label="working">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-128.76437" y="147.75665"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="124" label="palestinian">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-43.960846" y="-489.64526"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="487" label="hospital">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="230.32074" y="-294.92023"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="416" label="voters">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="201.67569" y="122.004944"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="496" label="visit">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="120.26624" y="-195.62268"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="479" label="two">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="543.22095" y="-154.37883"></viz:position>
+        <viz:color r="75" g="82" b="231"></viz:color>
+      </node>
+      <node id="167" label="6">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="73.773384" y="-443.6156"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="446" label="care">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-278.51114" y="343.25998"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="436" label="today">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="121.83285" y="-352.9557"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="121" label="israel">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-84.25388" y="-623.3363"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="325" label="berlin">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-150.22572" y="-432.7294"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="140" label="israelis">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-6.2049155" y="-163.12273"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="232" label="must">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="99.718315" y="330.30063"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="146" label="room">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-402.185" y="-327.09238"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="383" label="f">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="466.2381" y="-244.7084"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="452" label="work">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="157.54535" y="808.7615"></viz:position>
+        <viz:color r="198" g="100" b="150"></viz:color>
+      </node>
+      <node id="215" label="declassify">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-183.47888" y="-271.72388"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="335" label="hrc">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-131.67915" y="-171.11075"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="41" label="mr">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-444.76254" y="278.31204"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="148" label="arrive">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-355.71826" y="-322.34332"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="149" label="route">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-370.32477" y="-294.52786"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="331" label="sri">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-133.16425" y="-249.95343"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="238" label="council">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="72.53086" y="244.23717"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="89" label="december">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="234.46823" y="306.17462"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="222" label="states">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="204.15157" y="584.612"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="250" label="want">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-315.60913" y="260.55997"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="319" label="cherie">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-109.273026" y="201.57674"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="355" label="robinson">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="20.441626" y="306.3777"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="262" label="information">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-695.5679" y="-144.09277"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="221" label="united">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="269.07324" y="493.56912"></viz:position>
+        <viz:color r="222" g="162" b="3"></viz:color>
+      </node>
+      <node id="87" label="court">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="177.82086" y="372.54507"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="31" label="democracy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-62.30883" y="292.51108"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="294" label="kabul">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-306.15128" y="38.480473"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="427" label="sunday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="187.77525" y="-430.79364"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="376" label="usaid">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="226.52975" y="53.3583"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="341" label="sid">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="33.333702" y="497.15533"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="338" label="gate">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-58.242805" y="-164.03053"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="109" label="economy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="331.84" y="-63.937347"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="422" label="hrod17">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="216.65466" y="-501.23154"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="460" label="law">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-94.88557" y="77.055595"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="333" label="lanka">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-122.860664" y="-207.8183"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="353" label="tories">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-37.564392" y="341.62924"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="411" label="democratic">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="253.81934" y="179.8792"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="100" label="order">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="93.60115" y="144.83893"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="432" label="talk">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="124.37103" y="-403.49487"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="478" label="operations">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="142.12231" y="-143.31425"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="12" label="senators">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="347.7075" y="9.13857"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="313" label="help">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-203.91643" y="567.0004"></viz:position>
+        <viz:color r="92" g="48" b="191"></viz:color>
+      </node>
+      <node id="497" label="office">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-407.66525" y="-482.591"></viz:position>
+        <viz:color r="81" g="79" b="67"></viz:color>
+      </node>
+      <node id="276" label="september">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-437.11862" y="-36.06575"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="451" label="years">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="71.55558" y="83.29255"></viz:position>
+        <viz:color r="91" g="214" b="20"></viz:color>
+      </node>
+      <node id="268" label="produced">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-671.6219" y="-53.852757"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="285" label="embassy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-479.99673" y="80.943054"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="8" label="committee">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="407.68427" y="18.920969"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="492" label="24">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="187.8741" y="-246.38475"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="161" label="1">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="106.68239" y="-592.4909"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="35" label="police">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-46.77952" y="201.07971"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="63" label="thank">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="346.75388" y="329.79294"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="495" label="la">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="149.63136" y="-212.5935"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="18" label="vermarr">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="225.78416" y="-2.0836859"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="462" label="reuters">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="380.8741" y="-336.62503"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="364" label="policy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="537.3009" y="317.38928"></viz:position>
+        <viz:color r="106" g="214" b="34"></viz:color>
+      </node>
+      <node id="316" label="preval">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-129.50827" y="249.45422"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="274" label="2012">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-491.18515" y="-45.89274"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="309" label="donors">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-169.45116" y="323.75003"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="244" label="good">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-375.9971" y="283.15198"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="99" label="return">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="115.694084" y="211.04362"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="305" label="food">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-184.0185" y="415.12238"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="26" label="taliban">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-77.17551" y="400.6166"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="287" label="verveer">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-452.4426" y="60.37548"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="207" label="das">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-213.28526" y="-359.15805"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="403" label="republican">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="421.892" y="245.95139"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="298" label="bank">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-464.0734" y="-257.8404"></viz:position>
+        <viz:color r="43" g="134" b="127"></viz:color>
+      </node>
+      <node id="218" label="february">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-184.79257" y="-185.30104"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="302" label="january">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-238.93205" y="512.59644"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="205" label="classified">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-270.47556" y="-359.01675"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="389" label="l">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="373.57288" y="-220.44443"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="418" label="boehner">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="157.28343" y="98.93617"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="272" label="redactions">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-647.70825" y="-140.49504"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="71" label="week">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-71.088196" y="466.3942"></viz:position>
+        <viz:color r="156" g="101" b="146"></viz:color>
+      </node>
+      <node id="321" label="honduras">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-235.42387" y="-544.9214"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="299" label="another">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-210.94391" y="25.118973"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="47" label="eu">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-390.4163" y="228.30646"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="330" label="honduran">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-126.974205" y="-292.18723"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="428" label="saturday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="136.70615" y="-443.89716"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="327" label="palau">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-140.20903" y="-386.99088"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="169" label="research">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="53.584156" y="-405.4293"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="392" label="daniel">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="391.35074" y="-153.10806"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="444" label="health">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-300.15533" y="389.00043"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="94" label="hill">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="181.86443" y="254.05919"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="168" label="7">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="33.935883" y="-444.235"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="86" label="judith">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="262.20935" y="335.39267"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="289" label="sbu">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-404.23886" y="51.63504"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="111" label="million">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="278.0409" y="-83.70315"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="210" label="reason">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-256.01056" y="-288.8399"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="15" label="members">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="279.6966" y="-22.452019"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="394" label="philip">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="338.9" y="-194.76231"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="300" label="additional">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-224.40677" y="-12.306038"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="255" label="anne-marie">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-247.09952" y="221.35356"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="308" label="could">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-398.96866" y="460.46082"></viz:position>
+        <viz:color r="137" g="90" b="136"></viz:color>
+      </node>
+      <node id="58" label="british">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-258.16916" y="120.54998"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="82" label="david">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="302.29852" y="391.93796"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="227" label="american">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="340.78247" y="575.2464"></viz:position>
+        <viz:color r="90" g="221" b="32"></viz:color>
+      </node>
+      <node id="345" label="gordon">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-8.685173" y="426.8912"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="429" label="w">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="212.97356" y="-403.40765"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="241" label="think">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-413.5934" y="325.521"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="19" label="berlusconi">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="148.76907" y="-21.561653"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="414" label="first">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="271.9277" y="144.85114"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="279" label="stevens">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-313.02524" y="-39.150566"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="371" label="strategic">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="290.89917" y="66.030235"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="17" label="colombia">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="216.32146" y="-33.754887"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="174" label="vote">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="507.3357" y="-327.2413"></viz:position>
+        <viz:color r="235" g="127" b="3"></viz:color>
+      </node>
+      <node id="471" label="says">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="258.59244" y="-249.73773"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="425" label="tomorrow">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="220.32784" y="-453.09058"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="337" label="carter">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-124.040825" y="-125.948944"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="219" label="b1,1.4">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-199.52992" y="-148.80293"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="281" label="вЂў">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-681.2618" y="148.43217"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="159" label="sheet">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-264.7628" y="-185.99007"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="380" label="service">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="117.10148" y="36.659206"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="334" label="festival">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-81.25705" y="-200.41734"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="373" label="strategy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="236.85165" y="82.51944"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="277" label="attack">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-379.98703" y="-40.6451"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="162" label="2">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="86.349724" y="-570.43854"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="234" label="statement">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="73.5313" y="281.24316"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="401" label="white">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="430.91855" y="290.1383"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="261" label="benghazi">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-726.56714" y="-115.81391"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="68" label="hillary">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="295.4943" y="268.64197"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="187" label="western">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-449.77106" y="-104.59984"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="486" label="kris">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="241.8659" y="-330.86362"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="180" label="11">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="44.772537" y="-210.8918"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="173" label="10">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="30.463037" y="-338.6539"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="175" label="13">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="32.640236" y="-297.1427"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="390" label="b">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-123.52492" y="-588.4094"></viz:position>
+        <viz:color r="120" g="121" b="129"></viz:color>
+      </node>
+      <node id="179" label="14">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="32.620174" y="-254.65398"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="475" label="iranian">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="223.93956" y="-180.68732"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="172" label="18">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="67.52229" y="-328.84476"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="233" label="nations">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="105.78651" y="296.46976"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="397" label="r">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="708.3842" y="101.464134"></viz:position>
+        <viz:color r="221" g="171" b="43"></viz:color>
+      </node>
+      <node id="434" label="thu">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="150.28629" y="-372.4988"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="201" label="1.4">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-356.02594" y="-533.6925"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="204" label="craig">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-267.89093" y="-408.46893"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="60" label="say">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-247.40068" y="85.79199"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="426" label="sat">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="165.72154" y="-465.68927"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="369" label="affairs">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="361.97754" y="101.974434"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="409" label="mr.">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="334.50616" y="201.29106"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="350" label="labour">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-4.3778796" y="363.2168"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="194" label="forces">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-381.2046" y="-107.81967"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="39" label="many">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-14.753567" y="121.963974"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="85" label="goldman">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="226.78694" y="347.63742"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="375" label="plan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="181.96062" y="61.610085"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="76" label="letter">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="197.9649" y="177.76932"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="112" label="america">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="243.07991" y="-69.687294"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="213" label="class">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-215.2558" y="-283.7608"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="297" label="verveerms">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-190.18182" y="-6.624486"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="317" label="humanitarian">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-98.785324" y="236.97438"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="458" label="trafficking">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-137.50348" y="85.24226"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="206" label="dos">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-238.48471" y="-378.50116"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="56" label="senior">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-307.08813" y="109.113396"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="81" label="thomas">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="280.94272" y="418.67072"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="284" label="ambassador">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-506.3141" y="132.76987"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="156" label="text">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-327.30685" y="-190.42438"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="408" label="democrats">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="359.97977" y="170.76468"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="348" label="northern">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-32.105824" y="389.1308"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="498" label="jan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="20.9156" y="-8.486736"></viz:position>
+        <viz:color r="63" g="130" b="38"></viz:color>
+      </node>
+      <node id="49" label="bush">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-361.3906" y="196.88069"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="249" label="going">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-345.37366" y="244.83873"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="171" label="8">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="65.82717" y="-368.0282"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="280" label="hanley">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-244.13225" y="-57.562103"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="67" label="hope">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="326.39404" y="249.4361"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="278" label="monica">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-340.23328" y="-54.27853"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="243" label="get">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-362.93405" y="321.1094"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="481" label="de">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="335.32507" y="-401.12735"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="178" label="12">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="67.31929" y="-249.65796"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="282" label="report">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-595.9083" y="135.24324"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="301" label="haiti">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-277.3421" y="685.77234"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="114" label="trade">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="168.04384" y="-69.10752"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="102" label="countries">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="474.6861" y="-113.021614"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="382" label="millscd">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="623.7033" y="-155.82077"></viz:position>
+        <viz:color r="188" g="177" b="63"></viz:color>
+      </node>
+      <node id="7" label="reid">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="407.61957" y="-22.649809"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="466" label="news-mahogany">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="338.0417" y="-263.23477"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="320" label="disaster">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-84.49193" y="160.49152"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="494" label="sep">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="149.61195" y="-248.74606"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="374" label="national">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-289.03488" y="-78.73407"></viz:position>
+        <viz:color r="216" g="57" b="63"></viz:color>
+      </node>
+      <node id="254" label="see">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-123.664024" y="473.122"></viz:position>
+        <viz:color r="102" g="73" b="91"></viz:color>
+      </node>
+      <node id="476" label="officials">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="190.79216" y="-187.36339"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="92" label="sean">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="163.71814" y="296.9072"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="61" label="best">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="385.97366" y="330.36758"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="122" label="israeli">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-67.12721" y="-554.5479"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="11" label="reform">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="368.99887" y="36.88728"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="465" label="nuclear">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="339.62842" y="-298.61606"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="64" label="please">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="336.26913" y="296.71365"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="386" label="3">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="350.6277" y="-536.7632"></viz:position>
+        <viz:color r="228" g="176" b="11"></viz:color>
+      </node>
+      <node id="303" label="un">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-179.85423" y="458.86923"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="379" label="approach">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="153.64082" y="39.994854"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="482" label="email">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="539.6145" y="-93.69468"></viz:position>
+        <viz:color r="52" g="125" b="24"></viz:color>
+      </node>
+      <node id="52" label="europe">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-346.71362" y="139.22656"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="473" label="korea">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="229.50272" y="-223.42697"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="265" label="comm">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-570.19257" y="-41.788597"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="176" label="21">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="71.10361" y="-288.6792"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="83" label="karzai">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="256.63953" y="387.81534"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="499" label="received">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="96.74188" y="-157.16147"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="107" label="climate">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="356.8723" y="-82.810905"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="275" label="libya">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-641.1885" y="-222.96298"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="117" label="country">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="223.05138" y="452.62918"></viz:position>
+        <viz:color r="59" g="184" b="38"></viz:color>
+      </node>
+      <node id="231" label="region">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="118.09959" y="362.75137"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="189" label="according">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-414.75998" y="-135.79475"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="474" label="foreign">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="492.4611" y="150.37535"></viz:position>
+        <viz:color r="103" g="83" b="213"></viz:color>
+      </node>
+      <node id="263" label="sensitive">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-725.52203" y="-186.6351"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="5" label="senator">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="456.85712" y="12.179838"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="182" label="libyan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-502.19498" y="-148.1312"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="340" label="wall">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-49.433346" y="-126.477066"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="393" label="tuesday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="357.43365" y="-161.00946"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="454" label="community">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-160.20683" y="111.79354"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="485" label="tony">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="273.76395" y="-314.3432"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="152" label="conference">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-320.30896" y="-273.94186"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="157" label="valmorou">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-290.959" y="-207.97003"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="135" label="west">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-26.31472" y="-269.19763"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="406" label="political">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="420.67" y="490.73102"></viz:position>
+        <viz:color r="134" g="150" b="182"></viz:color>
+      </node>
+      <node id="20" label="cent">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="182.02383" y="-10.289823"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="95" label="mark">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="139.13635" y="251.18744"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="119" label="growth">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="100.59972" y="-50.252846"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="347" label="ireland">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="14.703083" y="396.86572"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="132" label="gaza">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-32.99166" y="-319.38177"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="351" label="dup">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="30.25623" y="348.14322"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="292" label="meeting">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-612.3394" y="-387.52286"></viz:position>
+        <viz:color r="76" g="68" b="152"></viz:color>
+      </node>
+      <node id="456" label="life">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-155.23164" y="182.6624"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="447" label="families">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-237.67708" y="324.3173"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="405" label="republicans">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="386.08484" y="214.37645"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="430" label="c">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="383.0133" y="-482.91678"></viz:position>
+        <viz:color r="162" g="228" b="116"></viz:color>
+      </node>
+      <node id="125" label="netanyahu">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-88.04022" y="-480.72064"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="457" label="kids">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-107.90949" y="114.72744"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="469" label="minister">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-336.1657" y="-384.51392"></viz:position>
+        <viz:color r="78" g="53" b="219"></viz:color>
+      </node>
+      <node id="448" label="child">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-218.92542" y="286.56653"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="413" label="former">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-210.7119" y="475.33856"></viz:position>
+        <viz:color r="133" g="153" b="216"></viz:color>
+      </node>
+      <node id="4" label="bill">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="465.0315" y="-20.50583"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="264" label="dept">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-706.64435" y="-49.016193"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="144" label="valmoro">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-434.58344" y="-329.6661"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="153" label="residence">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-357.57162" y="-206.77287"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="239" label="situation">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="49.95273" y="178.80347"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="211" label="mexico">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-191.485" y="-315.85358"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="137" label="middle">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-37.6652" y="-230.79793"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="216" label="a/gis">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-222.02174" y="-224.15555"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="336" label="managua">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-95.95445" y="-161.3303"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="29" label="media">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-77.68735" y="335.09674"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="252" label="make">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-271.01526" y="244.4281"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="407" label="administration">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="378.24118" y="500.55713"></viz:position>
+        <viz:color r="134" g="150" b="182"></viz:color>
+      </node>
+      <node id="242" label="speech">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-389.73593" y="348.4895"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="170" label="9">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="27.246208" y="-380.52493"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="402" label="party">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="260.58054" y="576.6206"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="361" label="development">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="517.42053" y="201.90472"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="395" label="jeffrey">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="320.57944" y="-137.06108"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="488" label="http">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="784.94666" y="43.678314"></viz:position>
+        <viz:color r="54" g="132" b="59"></viz:color>
+      </node>
+      <node id="160" label="davutoglu">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-268.70917" y="-153.44002"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="489" label="blair">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-67.76769" y="-45.370705"></viz:position>
+        <viz:color r="63" g="152" b="38"></viz:color>
+      </node>
+      <node id="138" label="koch">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-15.160269" y="-204.72127"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="25" label="afghan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-39.420795" y="502.44693"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="217" label="arturo">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-188.39166" y="-232.85507"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="433" label="jiloty">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="187.8181" y="-366.03876"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="322" label="zelaya">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-221.64598" y="-487.4839"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="370" label="programs">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="319.50308" y="94.24811"></viz:position>
+        <viz:color r="145" g="57" b="52"></viz:color>
+      </node>
+      <node id="288" label="holbrooke">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-417.90396" y="91.24355"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="79" label="well">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="141.22174" y="128.6494"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="50" label="mcchrystal">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-382.363" y="168.87814"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="306" label="relief">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-186.41219" y="371.52866"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="214" label="kelly">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-238.92514" y="-255.1879"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="332" label="coup">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-97.56036" y="-247.0195"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="21" label="pakistan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-48.71263" y="600.12006"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="62" label="thanks">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="372.18808" y="295.796"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="24" label="human">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-62.344807" y="534.2641"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="431" label="lauren">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="164.56847" y="-406.59894"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="90" label="mchale">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="182.76668" y="331.85855"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="404" label="campaign">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="388.25586" y="254.93596"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="181" label="source">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-529.065" y="-175.85268"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="163" label="4">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="78.64363" y="-524.9365"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="166" label="5">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="54.769127" y="-476.21295"></viz:position>
+        <viz:color r="189" g="127" b="0"></viz:color>
+      </node>
+      <node id="130" label="east">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-79.28205" y="-367.8001"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="493" label="...">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-126.81587" y="15.790814"></viz:position>
+        <viz:color r="30" g="135" b="5"></viz:color>
+      </node>
+      <node id="384" label="fyi">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="433.86115" y="-251.50291"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="128" label="arab">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-71.327385" y="-403.41513"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="247" label="know">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="87.374794" y="486.99826"></viz:position>
+        <viz:color r="102" g="73" b="91"></viz:color>
+      </node>
+      <node id="98" label="judge">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="116.90248" y="177.12952"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="377" label="world">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="682.6322" y="344.16766"></viz:position>
+        <viz:color r="100" g="220" b="26"></viz:color>
+      </node>
+      <node id="245" label="like">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-334.05627" y="301.12326"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="360" label="clegg">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-5.729164" y="192.6681"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="248" label="'ve">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-293.94562" y="285.17575"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="240" label="continue">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="39.888577" y="140.90953"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="223" label="security">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="198.35501" y="555.23376"></viz:position>
+        <viz:color r="145" g="116" b="13"></viz:color>
+      </node>
+      <node id="96" label="attorney">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="154.2004" y="215.43982"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="417" label="right">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="231.52017" y="142.2824"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="342" label="deal">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="5.231863" y="486.01587"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="1" label="senate">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="613.5742" y="10.675391"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="381" label="b5">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="500.3216" y="-252.37053"></viz:position>
+        <viz:color r="168" g="165" b="38"></viz:color>
+      </node>
+      <node id="103" label="economic">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="472.16373" y="-80.722435"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="203" label="b1">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-299.25555" y="-450.38123"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="69" label="dear">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="259.83945" y="248.25635"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="357" label="peter">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-0.4341542" y="269.999"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="291" label="sudan">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-375.99326" y="26.405005"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="84" label="decision">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="209.9534" y="379.06778"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="14" label="turkey">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="267.02917" y="6.236885"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="359" label="assembly">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-1.8490458" y="230.32817"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="116" label="power">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="131.50955" y="-69.72031"></viz:position>
+        <viz:color r="58" g="178" b="0"></viz:color>
+      </node>
+      <node id="145" label="schedule">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-397.86258" y="-360.05557"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="354" label="agreement">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-673.6665" y="68.08382"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+      <node id="257" label="slaughter">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-257.93738" y="175.96097"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="158" label="ok">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-307.29324" y="-163.6995"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="491" label="balderston">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="192.25215" y="-279.86722"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="328" label="freedom">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-152.63757" y="-354.70554"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="40" label="army">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-29.106142" y="91.99717"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="424" label="state.gov'">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="178.65497" y="-498.9666"></viz:position>
+        <viz:color r="122" g="178" b="105"></viz:color>
+      </node>
+      <node id="318" label="efforts">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="55.154156" y="580.4592"></viz:position>
+        <viz:color r="197" g="143" b="76"></viz:color>
+      </node>
+      <node id="126" label="palestinians">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-41.024754" y="-441.22092"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="410" label="washington">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="296.9817" y="179.75209"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="358" label="parties">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-34.752666" y="252.61244"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="186" label="magariaf">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-450.05753" y="-147.47366"></viz:position>
+        <viz:color r="178" g="0" b="21"></viz:color>
+      </node>
+      <node id="129" label="jerusalem">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-34.489067" y="-392.7834"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="295" label="bangladesh">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-255.78001" y="26.24401"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="142" label="lona">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-437.26312" y="-368.67264"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="367" label="support">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="450.0991" y="418.4116"></viz:position>
+        <viz:color r="200" g="144" b="39"></viz:color>
+      </node>
+      <node id="16" label="legislation">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="307.2307" y="17.168228"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="349" label="sbwhoeop">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="50.49395" y="377.91074"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="258" label="way">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-222.64867" y="190.10649"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="91" label="brazilian">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="203.96587" y="291.97342"></viz:position>
+        <viz:color r="116" g="62" b="17"></viz:color>
+      </node>
+      <node id="42" label="war">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-433.00076" y="245.23497"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="70" label="happy">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="273.63055" y="218.87364"></viz:position>
+        <viz:color r="104" g="38" b="82"></viz:color>
+      </node>
+      <node id="468" label="north">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="298.93622" y="-267.24203"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="127" label="jewish">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-82.44865" y="-434.96268"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="326" label="gore">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-181.06044" y="-410.99432"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="304" label="haitian">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-229.2971" y="431.31787"></viz:position>
+        <viz:color r="140" g="55" b="127"></viz:color>
+      </node>
+      <node id="484" label="info">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="274.4963" y="-362.66486"></viz:position>
+        <viz:color r="31" g="114" b="0"></viz:color>
+      </node>
+      <node id="283" label="melanne">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-518.0356" y="99.59921"></viz:position>
+        <viz:color r="87" g="127" b="0"></viz:color>
+      </node>
+      <node id="472" label="official">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="261.17343" y="-204.51839"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="3" label="verma">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="462.24713" y="45.155457"></viz:position>
+        <viz:color r="189" g="0" b="10"></viz:color>
+      </node>
+      <node id="251" label="'re">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-311.5576" y="220.78967"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="415" label="election">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="314.28775" y="145.493"></viz:position>
+        <viz:color r="101" g="115" b="178"></viz:color>
+      </node>
+      <node id="53" label="general">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-322.38864" y="164.19325"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="463" label="ap">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="395.72495" y="-308.6419"></viz:position>
+        <viz:color r="55" g="47" b="178"></viz:color>
+      </node>
+      <node id="57" label="britain">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-289.57443" y="137.47647"></viz:position>
+        <viz:color r="140" g="127" b="127"></viz:color>
+      </node>
+      <node id="449" label="education">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-197.10677" y="255.6854"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="134" label="negotiations">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-59.09203" y="-281.6766"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="467" label="abedinh">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="335.39682" y="-577.3285"></viz:position>
+        <viz:color r="128" g="192" b="158"></viz:color>
+      </node>
+      <node id="259" label="'ll">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-220.87996" y="151.78311"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="123" label="peace">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-73.04179" y="-514.9011"></viz:position>
+        <viz:color r="18" g="70" b="127"></viz:color>
+      </node>
+      <node id="165" label="percent">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="269.85825" y="-539.6639"></viz:position>
+        <viz:color r="195" g="180" b="0"></viz:color>
+      </node>
+      <node id="339" label="oas">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-87.88626" y="-119.10851"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="323" label="branch">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-180.05441" y="-487.5308"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="352" label="shaun">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-12.638764" y="319.2375"></viz:position>
+        <viz:color r="36" g="0" b="0"></viz:color>
+      </node>
+      <node id="435" label="monday">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="438.5003" y="-452.0684"></viz:position>
+        <viz:color r="162" g="228" b="116"></viz:color>
+      </node>
+      <node id="450" label="students">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-179.71915" y="223.95374"></viz:position>
+        <viz:color r="145" g="120" b="67"></viz:color>
+      </node>
+      <node id="209" label="update">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-229.29579" y="-325.17075"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="256" label="'m">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-284.76083" y="193.8732"></viz:position>
+        <viz:color r="31" g="70" b="18"></viz:color>
+      </node>
+      <node id="269" label="foia">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-553.90265" y="-60.447063"></viz:position>
+        <viz:color r="157" g="142" b="0"></viz:color>
+      </node>
+      <node id="385" label="e">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="601.7269" y="-59.767307"></viz:position>
+        <viz:color r="192" g="184" b="43"></viz:color>
+      </node>
+      <node id="38" label="daily">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-34.29121" y="151.29591"></viz:position>
+        <viz:color r="40" g="21" b="127"></viz:color>
+      </node>
+      <node id="147" label="u">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-403.2383" y="-284.25952"></viz:position>
+        <viz:color r="98" g="0" b="105"></viz:color>
+      </node>
+      <node id="220" label="ashton">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-169.2084" y="-135.9004"></viz:position>
+        <viz:color r="20" g="17" b="165"></viz:color>
+      </node>
+      <node id="329" label="resolution">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-128.03522" y="-326.52374"></viz:position>
+        <viz:color r="18" g="127" b="122"></viz:color>
+      </node>
+      <node id="266" label="waiver">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-684.17365" y="-94.271866"></viz:position>
+        <viz:color r="207" g="135" b="7"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="524" target="500" weight="0.004494032356888056"></edge>
+      <edge id="1" source="505" target="105" weight="0.00678038178011775"></edge>
+      <edge id="2" source="518" target="363" weight="0.011230237782001495"></edge>
+      <edge id="3" source="505" target="365" weight="0.005127237178385258"></edge>
+      <edge id="4" source="518" target="365" weight="0.010168979875743389"></edge>
+      <edge id="5" source="517" target="346" weight="0.011603343300521374"></edge>
+      <edge id="6" source="506" target="133" weight="0.006581390276551247"></edge>
+      <edge id="7" source="509" target="273" weight="0.006579526234418154"></edge>
+      <edge id="8" source="513" target="273" weight="0.03008895553648472"></edge>
+      <edge id="9" source="514" target="286" weight="0.011587164364755154"></edge>
+      <edge id="10" source="507" target="438" weight="0.010036150924861431"></edge>
+      <edge id="11" source="521" target="438" weight="0.00882924534380436"></edge>
+      <edge id="12" source="500" target="13" weight="0.004622546024620533"></edge>
+      <edge id="13" source="519" target="399" weight="0.006007644347846508"></edge>
+      <edge id="14" source="503" target="440" weight="0.0052552977576851845"></edge>
+      <edge id="15" source="521" target="440" weight="0.008271140046417713"></edge>
+      <edge id="16" source="519" target="396" weight="0.006294040009379387"></edge>
+      <edge id="17" source="519" target="400" weight="0.005976779852062464"></edge>
+      <edge id="18" source="522" target="441" weight="0.03488380089402199"></edge>
+      <edge id="19" source="518" target="372" weight="0.00471105519682169"></edge>
+      <edge id="20" source="517" target="343" weight="0.01607370190322399"></edge>
+      <edge id="21" source="510" target="208" weight="0.007493333425372839"></edge>
+      <edge id="22" source="516" target="324" weight="0.008076004683971405"></edge>
+      <edge id="23" source="522" target="445" weight="0.008653251454234123"></edge>
+      <edge id="24" source="501" target="22" weight="0.01631218008697033"></edge>
+      <edge id="25" source="519" target="391" weight="0.0077743143774569035"></edge>
+      <edge id="26" source="514" target="296" weight="0.004363605286926031"></edge>
+      <edge id="27" source="511" target="237" weight="0.004173997789621353"></edge>
+      <edge id="28" source="501" target="235" weight="0.00453269062563777"></edge>
+      <edge id="29" source="511" target="235" weight="0.004453442525118589"></edge>
+      <edge id="30" source="506" target="131" weight="0.006808655336499214"></edge>
+      <edge id="31" source="503" target="75" weight="0.005669792648404837"></edge>
+      <edge id="32" source="514" target="290" weight="0.0066501726396381855"></edge>
+      <edge id="33" source="501" target="44" weight="0.014570719562470913"></edge>
+      <edge id="34" source="502" target="44" weight="0.007778753526508808"></edge>
+      <edge id="35" source="500" target="2" weight="0.010297039523720741"></edge>
+      <edge id="36" source="509" target="190" weight="0.007886545732617378"></edge>
+      <edge id="37" source="521" target="437" weight="0.009104125201702118"></edge>
+      <edge id="38" source="515" target="307" weight="0.006479430943727493"></edge>
+      <edge id="39" source="513" target="271" weight="0.030283160507678986"></edge>
+      <edge id="40" source="505" target="113" weight="0.004019630141556263"></edge>
+      <edge id="41" source="522" target="442" weight="0.016173603013157845"></edge>
+      <edge id="42" source="515" target="312" weight="0.005170164164155722"></edge>
+      <edge id="43" source="521" target="421" weight="0.030165739357471466"></edge>
+      <edge id="44" source="511" target="311" weight="0.007838618941605091"></edge>
+      <edge id="45" source="515" target="311" weight="0.005258248653262854"></edge>
+      <edge id="46" source="518" target="362" weight="0.012106754817068577"></edge>
+      <edge id="47" source="520" target="480" weight="0.003758498467504978"></edge>
+      <edge id="48" source="523" target="480" weight="0.004837108310312033"></edge>
+      <edge id="49" source="503" target="388" weight="0.005395730026066303"></edge>
+      <edge id="50" source="519" target="388" weight="0.008130781352519989"></edge>
+      <edge id="51" source="523" target="461" weight="0.021490175276994705"></edge>
+      <edge id="52" source="505" target="101" weight="0.0179794542491436"></edge>
+      <edge id="53" source="524" target="483" weight="0.008266189135611057"></edge>
+      <edge id="54" source="523" target="477" weight="0.005588392727077007"></edge>
+      <edge id="55" source="502" target="45" weight="0.007638672366738319"></edge>
+      <edge id="56" source="515" target="310" weight="0.0053211599588394165"></edge>
+      <edge id="57" source="505" target="110" weight="0.004739911761134863"></edge>
+      <edge id="58" source="503" target="73" weight="0.005832909606397152"></edge>
+      <edge id="59" source="521" target="439" weight="0.008496887981891632"></edge>
+      <edge id="60" source="507" target="154" weight="0.010162264108657837"></edge>
+      <edge id="61" source="514" target="293" weight="0.006099463906139135"></edge>
+      <edge id="62" source="501" target="225" weight="0.005087642464786768"></edge>
+      <edge id="63" source="502" target="225" weight="0.007792267482727766"></edge>
+      <edge id="64" source="511" target="225" weight="0.007386303506791592"></edge>
+      <edge id="65" source="522" target="459" weight="0.003916437737643719"></edge>
+      <edge id="66" source="507" target="150" weight="0.013204414397478104"></edge>
+      <edge id="67" source="504" target="443" weight="0.006938789039850235"></edge>
+      <edge id="68" source="522" target="443" weight="0.010548735968768597"></edge>
+      <edge id="69" source="523" target="470" weight="0.00678805448114872"></edge>
+      <edge id="70" source="501" target="490" weight="0.004935505799949169"></edge>
+      <edge id="71" source="518" target="490" weight="0.004380116704851389"></edge>
+      <edge id="72" source="524" target="490" weight="0.005526275839656591"></edge>
+      <edge id="73" source="507" target="151" weight="0.011120898649096489"></edge>
+      <edge id="74" source="509" target="267" weight="0.006919166538864374"></edge>
+      <edge id="75" source="513" target="267" weight="0.030574170872569084"></edge>
+      <edge id="76" source="502" target="59" weight="0.00474691903218627"></edge>
+      <edge id="77" source="522" target="455" weight="0.003998742438852787"></edge>
+      <edge id="78" source="506" target="124" weight="0.012390745803713799"></edge>
+      <edge id="79" source="524" target="487" weight="0.006241796538233757"></edge>
+      <edge id="80" source="520" target="416" weight="0.004039694555103779"></edge>
+      <edge id="81" source="524" target="496" weight="0.004941948223859072"></edge>
+      <edge id="82" source="520" target="479" weight="0.003679464105516672"></edge>
+      <edge id="83" source="523" target="479" weight="0.005026386585086584"></edge>
+      <edge id="84" source="508" target="167" weight="0.008396015502512455"></edge>
+      <edge id="85" source="522" target="446" weight="0.008249416947364807"></edge>
+      <edge id="86" source="521" target="436" weight="0.009162372909486294"></edge>
+      <edge id="87" source="506" target="121" weight="0.03613332659006119"></edge>
+      <edge id="88" source="516" target="325" weight="0.006580972578376532"></edge>
+      <edge id="89" source="506" target="140" weight="0.0047148726880550385"></edge>
+      <edge id="90" source="511" target="232" weight="0.0048705763183534145"></edge>
+      <edge id="91" source="507" target="146" weight="0.019342761486768723"></edge>
+      <edge id="92" source="519" target="383" weight="0.013911629095673561"></edge>
+      <edge id="93" source="503" target="452" weight="0.0054441033862531185"></edge>
+      <edge id="94" source="512" target="452" weight="0.005873203743249178"></edge>
+      <edge id="95" source="515" target="452" weight="0.004377459175884724"></edge>
+      <edge id="96" source="518" target="452" weight="0.0056875478476285934"></edge>
+      <edge id="97" source="522" target="452" weight="0.004676053300499916"></edge>
+      <edge id="98" source="510" target="215" weight="0.006829329766333103"></edge>
+      <edge id="99" source="516" target="335" weight="0.0036224392242729664"></edge>
+      <edge id="100" source="502" target="41" weight="0.010038851760327816"></edge>
+      <edge id="101" source="507" target="148" weight="0.015481674112379551"></edge>
+      <edge id="102" source="507" target="149" weight="0.015432453714311123"></edge>
+      <edge id="103" source="516" target="331" weight="0.004248550161719322"></edge>
+      <edge id="104" source="511" target="238" weight="0.004151496570557356"></edge>
+      <edge id="105" source="504" target="89" weight="0.006874555256217718"></edge>
+      <edge id="106" source="511" target="222" weight="0.020810894668102264"></edge>
+      <edge id="107" source="512" target="250" weight="0.009149106219410896"></edge>
+      <edge id="108" source="515" target="319" weight="0.004079894628375769"></edge>
+      <edge id="109" source="517" target="355" weight="0.008080256171524525"></edge>
+      <edge id="110" source="509" target="262" weight="0.00763083016499877"></edge>
+      <edge id="111" source="513" target="262" weight="0.033189114183187485"></edge>
+      <edge id="112" source="508" target="221" weight="0.00570855475962162"></edge>
+      <edge id="113" source="511" target="221" weight="0.021284829825162888"></edge>
+      <edge id="114" source="504" target="87" weight="0.0073991380631923676"></edge>
+      <edge id="115" source="501" target="31" weight="0.005011587869375944"></edge>
+      <edge id="116" source="514" target="294" weight="0.005514991469681263"></edge>
+      <edge id="117" source="521" target="427" weight="0.012099691666662693"></edge>
+      <edge id="118" source="518" target="376" weight="0.004522465635091066"></edge>
+      <edge id="119" source="517" target="341" weight="0.020026253536343575"></edge>
+      <edge id="120" source="516" target="338" weight="0.0035345260985195637"></edge>
+      <edge id="121" source="505" target="109" weight="0.004991777706891298"></edge>
+      <edge id="122" source="521" target="422" weight="0.021090419963002205"></edge>
+      <edge id="123" source="522" target="460" weight="0.003709040116518736"></edge>
+      <edge id="124" source="516" target="333" weight="0.0037736708763986826"></edge>
+      <edge id="125" source="517" target="353" weight="0.008724027313292027"></edge>
+      <edge id="126" source="520" target="411" weight="0.004288617055863142"></edge>
+      <edge id="127" source="504" target="100" weight="0.004455766640603542"></edge>
+      <edge id="128" source="521" target="432" weight="0.010149313136935234"></edge>
+      <edge id="129" source="523" target="478" weight="0.005476951599121094"></edge>
+      <edge id="130" source="500" target="12" weight="0.00463000638410449"></edge>
+      <edge id="131" source="501" target="313" weight="0.0034550440032035112"></edge>
+      <edge id="132" source="515" target="313" weight="0.004727078601717949"></edge>
+      <edge id="133" source="507" target="497" weight="0.03531007468700409"></edge>
+      <edge id="134" source="524" target="497" weight="0.004625915549695492"></edge>
+      <edge id="135" source="513" target="276" weight="0.011637631803750992"></edge>
+      <edge id="136" source="505" target="451" weight="0.005348205100744963"></edge>
+      <edge id="137" source="522" target="451" weight="0.004950368776917458"></edge>
+      <edge id="138" source="509" target="268" weight="0.007506870198994875"></edge>
+      <edge id="139" source="513" target="268" weight="0.030573349446058273"></edge>
+      <edge id="140" source="514" target="285" weight="0.01173712220042944"></edge>
+      <edge id="141" source="500" target="8" weight="0.0060473051853477955"></edge>
+      <edge id="142" source="524" target="492" weight="0.005442710593342781"></edge>
+      <edge id="143" source="508" target="161" weight="0.023164531216025352"></edge>
+      <edge id="144" source="501" target="35" weight="0.0037886600475758314"></edge>
+      <edge id="145" source="503" target="63" weight="0.012646756134927273"></edge>
+      <edge id="146" source="524" target="495" weight="0.005034668371081352"></edge>
+      <edge id="147" source="500" target="18" weight="0.003806877648457885"></edge>
+      <edge id="148" source="523" target="462" weight="0.01359561737626791"></edge>
+      <edge id="149" source="502" target="364" weight="0.005133767146617174"></edge>
+      <edge id="150" source="505" target="364" weight="0.0039868527092039585"></edge>
+      <edge id="151" source="518" target="364" weight="0.010768810287117958"></edge>
+      <edge id="152" source="515" target="316" weight="0.00436561880633235"></edge>
+      <edge id="153" source="513" target="274" weight="0.017463799566030502"></edge>
+      <edge id="154" source="515" target="309" weight="0.005642245057970285"></edge>
+      <edge id="155" source="512" target="244" weight="0.011941889300942421"></edge>
+      <edge id="156" source="504" target="99" weight="0.004592126235365868"></edge>
+      <edge id="157" source="515" target="305" weight="0.009497327730059624"></edge>
+      <edge id="158" source="501" target="26" weight="0.007119078189134598"></edge>
+      <edge id="159" source="514" target="287" weight="0.010395994409918785"></edge>
+      <edge id="160" source="510" target="207" weight="0.007949039340019226"></edge>
+      <edge id="161" source="520" target="403" weight="0.00788156222552061"></edge>
+      <edge id="162" source="506" target="298" weight="0.0047254133969545364"></edge>
+      <edge id="163" source="514" target="298" weight="0.004265354946255684"></edge>
+      <edge id="164" source="510" target="218" weight="0.005300729535520077"></edge>
+      <edge id="165" source="515" target="302" weight="0.016327982768416405"></edge>
+      <edge id="166" source="510" target="205" weight="0.008305035531520844"></edge>
+      <edge id="167" source="519" target="389" weight="0.007958320900797844"></edge>
+      <edge id="168" source="520" target="418" weight="0.003802067367359996"></edge>
+      <edge id="169" source="509" target="272" weight="0.006582676898688078"></edge>
+      <edge id="170" source="513" target="272" weight="0.030269647017121315"></edge>
+      <edge id="171" source="502" target="71" weight="0.005319781135767698"></edge>
+      <edge id="172" source="503" target="71" weight="0.006437117233872414"></edge>
+      <edge id="173" source="516" target="321" weight="0.014493489637970924"></edge>
+      <edge id="174" source="514" target="299" weight="0.004135907627642155"></edge>
+      <edge id="175" source="502" target="47" weight="0.007172484416514635"></edge>
+      <edge id="176" source="516" target="330" weight="0.004750464111566544"></edge>
+      <edge id="177" source="521" target="428" weight="0.011721454560756683"></edge>
+      <edge id="178" source="516" target="327" weight="0.005606669466942549"></edge>
+      <edge id="179" source="508" target="169" weight="0.007082427851855755"></edge>
+      <edge id="180" source="519" target="392" weight="0.007661375682801008"></edge>
+      <edge id="181" source="522" target="444" weight="0.01043382566422224"></edge>
+      <edge id="182" source="504" target="94" weight="0.005369238555431366"></edge>
+      <edge id="183" source="508" target="168" weight="0.008260220289230347"></edge>
+      <edge id="184" source="504" target="86" weight="0.00751829519867897"></edge>
+      <edge id="185" source="514" target="289" weight="0.00740770110860467"></edge>
+      <edge id="186" source="505" target="111" weight="0.004651708994060755"></edge>
+      <edge id="187" source="510" target="210" weight="0.007294000592082739"></edge>
+      <edge id="188" source="500" target="15" weight="0.003994059283286333"></edge>
+      <edge id="189" source="519" target="394" weight="0.007259970065206289"></edge>
+      <edge id="190" source="514" target="300" weight="0.004078047350049019"></edge>
+      <edge id="191" source="512" target="255" weight="0.007168937474489212"></edge>
+      <edge id="192" source="512" target="308" weight="0.007550221402198076"></edge>
+      <edge id="193" source="515" target="308" weight="0.005699991714209318"></edge>
+      <edge id="194" source="502" target="58" weight="0.0048025501891970634"></edge>
+      <edge id="195" source="504" target="82" weight="0.01116369292140007"></edge>
+      <edge id="196" source="501" target="227" weight="0.006340032909065485"></edge>
+      <edge id="197" source="505" target="227" weight="0.00351156247779727"></edge>
+      <edge id="198" source="506" target="227" weight="0.005260887555778027"></edge>
+      <edge id="199" source="511" target="227" weight="0.006312710233032703"></edge>
+      <edge id="200" source="517" target="345" weight="0.012579933740198612"></edge>
+      <edge id="201" source="521" target="429" weight="0.011486309580504894"></edge>
+      <edge id="202" source="512" target="241" weight="0.01708259992301464"></edge>
+      <edge id="203" source="500" target="19" weight="0.003803122555837035"></edge>
+      <edge id="204" source="520" target="414" weight="0.004231826402246952"></edge>
+      <edge id="205" source="513" target="279" weight="0.00645041186362505"></edge>
+      <edge id="206" source="518" target="371" weight="0.0048144846223294735"></edge>
+      <edge id="207" source="500" target="17" weight="0.00381512101739645"></edge>
+      <edge id="208" source="500" target="174" weight="0.007123562041670084"></edge>
+      <edge id="209" source="508" target="174" weight="0.00599506963044405"></edge>
+      <edge id="210" source="523" target="471" weight="0.006780639290809631"></edge>
+      <edge id="211" source="521" target="425" weight="0.014978613704442978"></edge>
+      <edge id="212" source="516" target="337" weight="0.0035794121213257313"></edge>
+      <edge id="213" source="510" target="219" weight="0.00498551968485117"></edge>
+      <edge id="214" source="514" target="281" weight="0.057307008653879166"></edge>
+      <edge id="215" source="507" target="159" weight="0.008689473383128643"></edge>
+      <edge id="216" source="518" target="380" weight="0.004010245203971863"></edge>
+      <edge id="217" source="516" target="334" weight="0.0036285396199673414"></edge>
+      <edge id="218" source="518" target="373" weight="0.00466026458889246"></edge>
+      <edge id="219" source="513" target="277" weight="0.008117248304188251"></edge>
+      <edge id="220" source="508" target="162" weight="0.020792298018932343"></edge>
+      <edge id="221" source="511" target="234" weight="0.004542921669781208"></edge>
+      <edge id="222" source="520" target="401" weight="0.008991812355816364"></edge>
+      <edge id="223" source="509" target="261" weight="0.009042422287166119"></edge>
+      <edge id="224" source="513" target="261" weight="0.04246321693062782"></edge>
+      <edge id="225" source="503" target="68" weight="0.008679483085870743"></edge>
+      <edge id="226" source="509" target="187" weight="0.008256259374320507"></edge>
+      <edge id="227" source="524" target="486" weight="0.006639349739998579"></edge>
+      <edge id="228" source="508" target="180" weight="0.005365357734262943"></edge>
+      <edge id="229" source="508" target="173" weight="0.006323532201349735"></edge>
+      <edge id="230" source="508" target="175" weight="0.005931397899985313"></edge>
+      <edge id="231" source="510" target="390" weight="0.020373789593577385"></edge>
+      <edge id="232" source="519" target="390" weight="0.007922906428575516"></edge>
+      <edge id="233" source="508" target="179" weight="0.0056192162446677685"></edge>
+      <edge id="234" source="523" target="475" weight="0.0061906250193715096"></edge>
+      <edge id="235" source="508" target="172" weight="0.006365628447383642"></edge>
+      <edge id="236" source="511" target="233" weight="0.00474719749763608"></edge>
+      <edge id="237" source="500" target="397" weight="0.005338882561773062"></edge>
+      <edge id="238" source="504" target="397" weight="0.005432295612990856"></edge>
+      <edge id="239" source="519" target="397" weight="0.006242990028113127"></edge>
+      <edge id="240" source="521" target="434" weight="0.00968307163566351"></edge>
+      <edge id="241" source="510" target="201" weight="0.034811872988939285"></edge>
+      <edge id="242" source="510" target="204" weight="0.010083556175231934"></edge>
+      <edge id="243" source="502" target="60" weight="0.004620593506842852"></edge>
+      <edge id="244" source="521" target="426" weight="0.01394073199480772"></edge>
+      <edge id="245" source="518" target="369" weight="0.00565467681735754"></edge>
+      <edge id="246" source="520" target="409" weight="0.005183206871151924"></edge>
+      <edge id="247" source="517" target="350" weight="0.009683522395789623"></edge>
+      <edge id="248" source="509" target="194" weight="0.007098440546542406"></edge>
+      <edge id="249" source="501" target="39" weight="0.0033321944065392017"></edge>
+      <edge id="250" source="504" target="85" weight="0.00760924257338047"></edge>
+      <edge id="251" source="518" target="375" weight="0.004538315813988447"></edge>
+      <edge id="252" source="503" target="76" weight="0.005581671372056007"></edge>
+      <edge id="253" source="505" target="112" weight="0.0045103090815246105"></edge>
+      <edge id="254" source="510" target="213" weight="0.006962679326534271"></edge>
+      <edge id="255" source="514" target="297" weight="0.004294438287615776"></edge>
+      <edge id="256" source="515" target="317" weight="0.004271034151315689"></edge>
+      <edge id="257" source="522" target="458" weight="0.0039414954371750355"></edge>
+      <edge id="258" source="510" target="206" weight="0.008009347133338451"></edge>
+      <edge id="259" source="502" target="56" weight="0.005101369693875313"></edge>
+      <edge id="260" source="504" target="81" weight="0.011492421850562096"></edge>
+      <edge id="261" source="514" target="284" weight="0.014171469956636429"></edge>
+      <edge id="262" source="507" target="156" weight="0.009394551627337933"></edge>
+      <edge id="263" source="520" target="408" weight="0.005267548840492964"></edge>
+      <edge id="264" source="517" target="348" weight="0.010396561585366726"></edge>
+      <edge id="265" source="515" target="498" weight="0.004401946906000376"></edge>
+      <edge id="266" source="524" target="498" weight="0.004511422012001276"></edge>
+      <edge id="267" source="502" target="49" weight="0.006403219886124134"></edge>
+      <edge id="268" source="512" target="249" weight="0.009160013869404793"></edge>
+      <edge id="269" source="508" target="171" weight="0.006633499171584845"></edge>
+      <edge id="270" source="513" target="280" weight="0.005251588765531778"></edge>
+      <edge id="271" source="503" target="67" weight="0.009272533468902111"></edge>
+      <edge id="272" source="513" target="278" weight="0.006474998313933611"></edge>
+      <edge id="273" source="512" target="243" weight="0.01327146589756012"></edge>
+      <edge id="274" source="524" target="481" weight="0.01180399302393198"></edge>
+      <edge id="275" source="508" target="178" weight="0.005664030089974403"></edge>
+      <edge id="276" source="514" target="282" weight="0.029715608805418015"></edge>
+      <edge id="277" source="515" target="301" weight="0.05270789563655853"></edge>
+      <edge id="278" source="505" target="114" weight="0.004003678914159536"></edge>
+      <edge id="279" source="505" target="102" weight="0.011057654395699501"></edge>
+      <edge id="280" source="503" target="382" weight="0.006143923848867416"></edge>
+      <edge id="281" source="519" target="382" weight="0.016438055783510208"></edge>
+      <edge id="282" source="500" target="7" weight="0.006108521483838558"></edge>
+      <edge id="283" source="523" target="466" weight="0.008593046106398106"></edge>
+      <edge id="284" source="515" target="320" weight="0.003772391937673092"></edge>
+      <edge id="285" source="524" target="494" weight="0.005230926442891359"></edge>
+      <edge id="286" source="509" target="374" weight="0.008226769976317883"></edge>
+      <edge id="287" source="518" target="374" weight="0.004637667443603277"></edge>
+      <edge id="288" source="503" target="254" weight="0.005688969511538744"></edge>
+      <edge id="289" source="512" target="254" weight="0.007543186657130718"></edge>
+      <edge id="290" source="523" target="476" weight="0.00606265664100647"></edge>
+      <edge id="291" source="504" target="92" weight="0.005992828868329525"></edge>
+      <edge id="292" source="503" target="61" weight="0.013982578180730343"></edge>
+      <edge id="293" source="506" target="122" weight="0.019963039085268974"></edge>
+      <edge id="294" source="500" target="11" weight="0.004749738611280918"></edge>
+      <edge id="295" source="523" target="465" weight="0.009402632713317871"></edge>
+      <edge id="296" source="503" target="64" weight="0.011956274509429932"></edge>
+      <edge id="297" source="508" target="386" weight="0.013613113202154636"></edge>
+      <edge id="298" source="519" target="386" weight="0.009418879635632038"></edge>
+      <edge id="299" source="515" target="303" weight="0.011181158944964409"></edge>
+      <edge id="300" source="518" target="379" weight="0.004219415597617626"></edge>
+      <edge id="301" source="503" target="482" weight="0.009953032247722149"></edge>
+      <edge id="302" source="524" target="482" weight="0.009556732140481472"></edge>
+      <edge id="303" source="502" target="52" weight="0.005439396016299725"></edge>
+      <edge id="304" source="523" target="473" weight="0.006629423703998327"></edge>
+      <edge id="305" source="513" target="265" weight="0.030731601640582085"></edge>
+      <edge id="306" source="508" target="176" weight="0.005927306599915028"></edge>
+      <edge id="307" source="504" target="83" weight="0.009770632721483707"></edge>
+      <edge id="308" source="524" target="499" weight="0.004494218621402979"></edge>
+      <edge id="309" source="505" target="107" weight="0.005145983304828405"></edge>
+      <edge id="310" source="509" target="275" weight="0.011070558801293373"></edge>
+      <edge id="311" source="513" target="275" weight="0.012824704870581627"></edge>
+      <edge id="312" source="501" target="117" weight="0.005467370618134737"></edge>
+      <edge id="313" source="505" target="117" weight="0.003766298294067383"></edge>
+      <edge id="314" source="511" target="231" weight="0.005063031334429979"></edge>
+      <edge id="315" source="509" target="189" weight="0.008004450239241123"></edge>
+      <edge id="316" source="502" target="474" weight="0.007310918997973204"></edge>
+      <edge id="317" source="518" target="474" weight="0.009734644554555416"></edge>
+      <edge id="318" source="523" target="474" weight="0.006589275319129229"></edge>
+      <edge id="319" source="509" target="263" weight="0.012566089630126953"></edge>
+      <edge id="320" source="513" target="263" weight="0.03261221945285797"></edge>
+      <edge id="321" source="500" target="5" weight="0.008090756833553314"></edge>
+      <edge id="322" source="509" target="182" weight="0.012603792361915112"></edge>
+      <edge id="323" source="516" target="340" weight="0.0034953781869262457"></edge>
+      <edge id="324" source="519" target="393" weight="0.00755982706323266"></edge>
+      <edge id="325" source="522" target="454" weight="0.004025026224553585"></edge>
+      <edge id="326" source="524" target="485" weight="0.006658974569290876"></edge>
+      <edge id="327" source="507" target="152" weight="0.010829625651240349"></edge>
+      <edge id="328" source="507" target="157" weight="0.009112373925745487"></edge>
+      <edge id="329" source="506" target="135" weight="0.005800286773592234"></edge>
+      <edge id="330" source="511" target="406" weight="0.006108343135565519"></edge>
+      <edge id="331" source="520" target="406" weight="0.005804582964628935"></edge>
+      <edge id="332" source="500" target="20" weight="0.0037053122650831938"></edge>
+      <edge id="333" source="504" target="95" weight="0.004906560759991407"></edge>
+      <edge id="334" source="505" target="119" weight="0.0035865814425051212"></edge>
+      <edge id="335" source="517" target="347" weight="0.010772200301289558"></edge>
+      <edge id="336" source="506" target="132" weight="0.00668744370341301"></edge>
+      <edge id="337" source="517" target="351" weight="0.009495801292359829"></edge>
+      <edge id="338" source="507" target="292" weight="0.022553056478500366"></edge>
+      <edge id="339" source="510" target="292" weight="0.007000476121902466"></edge>
+      <edge id="340" source="514" target="292" weight="0.006296338513493538"></edge>
+      <edge id="341" source="522" target="456" weight="0.003978709690272808"></edge>
+      <edge id="342" source="522" target="447" weight="0.007157004438340664"></edge>
+      <edge id="343" source="520" target="405" weight="0.006878754589706659"></edge>
+      <edge id="344" source="519" target="430" weight="0.006024283356964588"></edge>
+      <edge id="345" source="521" target="430" weight="0.011216547340154648"></edge>
+      <edge id="346" source="506" target="125" weight="0.012326003983616829"></edge>
+      <edge id="347" source="522" target="457" weight="0.00394860003143549"></edge>
+      <edge id="348" source="501" target="469" weight="0.0036741250660270452"></edge>
+      <edge id="349" source="509" target="469" weight="0.0074722194112837315"></edge>
+      <edge id="350" source="523" target="469" weight="0.007117854431271553"></edge>
+      <edge id="351" source="522" target="448" weight="0.00581643171608448"></edge>
+      <edge id="352" source="502" target="413" weight="0.006589030381292105"></edge>
+      <edge id="353" source="520" target="413" weight="0.0042403400875627995"></edge>
+      <edge id="354" source="500" target="4" weight="0.008293003775179386"></edge>
+      <edge id="355" source="509" target="264" weight="0.006627932190895081"></edge>
+      <edge id="356" source="513" target="264" weight="0.03233370929956436"></edge>
+      <edge id="357" source="507" target="144" weight="0.021524490788578987"></edge>
+      <edge id="358" source="507" target="153" weight="0.010290363803505898"></edge>
+      <edge id="359" source="511" target="239" weight="0.0039185113273561"></edge>
+      <edge id="360" source="510" target="211" weight="0.007104888092726469"></edge>
+      <edge id="361" source="506" target="137" weight="0.005204230081290007"></edge>
+      <edge id="362" source="510" target="216" weight="0.006829329766333103"></edge>
+      <edge id="363" source="516" target="336" weight="0.003599015297368169"></edge>
+      <edge id="364" source="501" target="29" weight="0.0052660792134702206"></edge>
+      <edge id="365" source="512" target="252" weight="0.00762366084381938"></edge>
+      <edge id="366" source="511" target="407" weight="0.005704480689018965"></edge>
+      <edge id="367" source="520" target="407" weight="0.005736836232244968"></edge>
+      <edge id="368" source="512" target="242" weight="0.016960198059678078"></edge>
+      <edge id="369" source="508" target="170" weight="0.006671893410384655"></edge>
+      <edge id="370" source="517" target="402" weight="0.015178445726633072"></edge>
+      <edge id="371" source="520" target="402" weight="0.008202758617699146"></edge>
+      <edge id="372" source="518" target="361" weight="0.01584235019981861"></edge>
+      <edge id="373" source="519" target="395" weight="0.006304551847279072"></edge>
+      <edge id="374" source="500" target="488" weight="0.005144223105162382"></edge>
+      <edge id="375" source="517" target="488" weight="0.0068993354216217995"></edge>
+      <edge id="376" source="520" target="488" weight="0.004268044605851173"></edge>
+      <edge id="377" source="522" target="488" weight="0.004375292919576168"></edge>
+      <edge id="378" source="523" target="488" weight="0.009528955444693565"></edge>
+      <edge id="379" source="524" target="488" weight="0.005944548174738884"></edge>
+      <edge id="380" source="507" target="160" weight="0.008558264002203941"></edge>
+      <edge id="381" source="502" target="489" weight="0.005810760892927647"></edge>
+      <edge id="382" source="524" target="489" weight="0.005843760911375284"></edge>
+      <edge id="383" source="506" target="138" weight="0.005158404354006052"></edge>
+      <edge id="384" source="501" target="25" weight="0.011927938088774681"></edge>
+      <edge id="385" source="510" target="217" weight="0.006599273532629013"></edge>
+      <edge id="386" source="521" target="433" weight="0.009794057346880436"></edge>
+      <edge id="387" source="516" target="322" weight="0.009799124673008919"></edge>
+      <edge id="388" source="518" target="370" weight="0.0049414439126849174"></edge>
+      <edge id="389" source="514" target="288" weight="0.008519954048097134"></edge>
+      <edge id="390" source="503" target="79" weight="0.005374908447265625"></edge>
+      <edge id="391" source="502" target="50" weight="0.006251567043364048"></edge>
+      <edge id="392" source="515" target="306" weight="0.007244265638291836"></edge>
+      <edge id="393" source="510" target="214" weight="0.0069579267874360085"></edge>
+      <edge id="394" source="516" target="332" weight="0.004130452871322632"></edge>
+      <edge id="395" source="501" target="21" weight="0.01990971527993679"></edge>
+      <edge id="396" source="503" target="62" weight="0.012698899023234844"></edge>
+      <edge id="397" source="501" target="24" weight="0.014010599814355373"></edge>
+      <edge id="398" source="521" target="431" weight="0.010888109914958477"></edge>
+      <edge id="399" source="504" target="90" weight="0.0067191398702561855"></edge>
+      <edge id="400" source="520" target="404" weight="0.007580062374472618"></edge>
+      <edge id="401" source="509" target="181" weight="0.014590230770409107"></edge>
+      <edge id="402" source="508" target="163" weight="0.014591124840080738"></edge>
+      <edge id="403" source="508" target="166" weight="0.008965680375695229"></edge>
+      <edge id="404" source="506" target="130" weight="0.007304762024432421"></edge>
+      <edge id="405" source="512" target="493" weight="0.010452468879520893"></edge>
+      <edge id="406" source="524" target="493" weight="0.005404937081038952"></edge>
+      <edge id="407" source="519" target="384" weight="0.012920815497636795"></edge>
+      <edge id="408" source="506" target="128" weight="0.00801702681928873"></edge>
+      <edge id="409" source="503" target="247" weight="0.010716881603002548"></edge>
+      <edge id="410" source="512" target="247" weight="0.010198426432907581"></edge>
+      <edge id="411" source="504" target="98" weight="0.004602331668138504"></edge>
+      <edge id="412" source="501" target="377" weight="0.0047287531197071075"></edge>
+      <edge id="413" source="505" target="377" weight="0.010156702250242233"></edge>
+      <edge id="414" source="511" target="377" weight="0.0042662606574594975"></edge>
+      <edge id="415" source="518" target="377" weight="0.004445307422429323"></edge>
+      <edge id="416" source="512" target="245" weight="0.011042460799217224"></edge>
+      <edge id="417" source="517" target="360" weight="0.005755660589784384"></edge>
+      <edge id="418" source="512" target="248" weight="0.009381511248648167"></edge>
+      <edge id="419" source="511" target="240" weight="0.0038260286673903465"></edge>
+      <edge id="420" source="511" target="223" weight="0.020119544118642807"></edge>
+      <edge id="421" source="504" target="96" weight="0.004782507196068764"></edge>
+      <edge id="422" source="520" target="417" weight="0.004031692165881395"></edge>
+      <edge id="423" source="517" target="342" weight="0.01952154003083706"></edge>
+      <edge id="424" source="500" target="1" weight="0.0173175148665905"></edge>
+      <edge id="425" source="519" target="381" weight="0.016713913530111313"></edge>
+      <edge id="426" source="505" target="103" weight="0.01094017829746008"></edge>
+      <edge id="427" source="510" target="203" weight="0.014855330809950829"></edge>
+      <edge id="428" source="503" target="69" weight="0.007559516932815313"></edge>
+      <edge id="429" source="517" target="357" weight="0.006744982209056616"></edge>
+      <edge id="430" source="514" target="291" weight="0.006608797237277031"></edge>
+      <edge id="431" source="504" target="84" weight="0.007615392096340656"></edge>
+      <edge id="432" source="500" target="14" weight="0.004026277922093868"></edge>
+      <edge id="433" source="517" target="359" weight="0.006051087286323309"></edge>
+      <edge id="434" source="505" target="116" weight="0.0038100979290902615"></edge>
+      <edge id="435" source="507" target="145" weight="0.02052689902484417"></edge>
+      <edge id="436" source="509" target="354" weight="0.006973652169108391"></edge>
+      <edge id="437" source="513" target="354" weight="0.030379552394151688"></edge>
+      <edge id="438" source="517" target="354" weight="0.008404657244682312"></edge>
+      <edge id="439" source="512" target="257" weight="0.006987416185438633"></edge>
+      <edge id="440" source="507" target="158" weight="0.008914271369576454"></edge>
+      <edge id="441" source="524" target="491" weight="0.005479107145220041"></edge>
+      <edge id="442" source="516" target="328" weight="0.005330125335603952"></edge>
+      <edge id="443" source="501" target="40" weight="0.003309187712147832"></edge>
+      <edge id="444" source="521" target="424" weight="0.017687076702713966"></edge>
+      <edge id="445" source="511" target="318" weight="0.005527791101485491"></edge>
+      <edge id="446" source="515" target="318" weight="0.004178886767476797"></edge>
+      <edge id="447" source="506" target="126" weight="0.009067391976714134"></edge>
+      <edge id="448" source="520" target="410" weight="0.0043505411595106125"></edge>
+      <edge id="449" source="517" target="358" weight="0.00635526841506362"></edge>
+      <edge id="450" source="509" target="186" weight="0.00877796858549118"></edge>
+      <edge id="451" source="506" target="129" weight="0.0074164364486932755"></edge>
+      <edge id="452" source="514" target="295" weight="0.004630139097571373"></edge>
+      <edge id="453" source="507" target="142" weight="0.02581886202096939"></edge>
+      <edge id="454" source="511" target="367" weight="0.006395481061190367"></edge>
+      <edge id="455" source="518" target="367" weight="0.006765757221728563"></edge>
+      <edge id="456" source="500" target="16" weight="0.0038987789303064346"></edge>
+      <edge id="457" source="517" target="349" weight="0.010121213272213936"></edge>
+      <edge id="458" source="512" target="258" weight="0.006622197572141886"></edge>
+      <edge id="459" source="504" target="91" weight="0.006483360659331083"></edge>
+      <edge id="460" source="502" target="42" weight="0.00879638735204935"></edge>
+      <edge id="461" source="503" target="70" weight="0.007073576096445322"></edge>
+      <edge id="462" source="523" target="468" weight="0.007609495427459478"></edge>
+      <edge id="463" source="506" target="127" weight="0.008810100145637989"></edge>
+      <edge id="464" source="516" target="326" weight="0.006580972578376532"></edge>
+      <edge id="465" source="515" target="304" weight="0.010642867535352707"></edge>
+      <edge id="466" source="524" target="484" weight="0.007626640144735575"></edge>
+      <edge id="467" source="514" target="283" weight="0.014704233966767788"></edge>
+      <edge id="468" source="523" target="472" weight="0.006718704476952553"></edge>
+      <edge id="469" source="500" target="3" weight="0.008310887031257153"></edge>
+      <edge id="470" source="512" target="251" weight="0.008296058513224125"></edge>
+      <edge id="471" source="520" target="415" weight="0.004179801791906357"></edge>
+      <edge id="472" source="502" target="53" weight="0.005330657120794058"></edge>
+      <edge id="473" source="523" target="463" weight="0.013413707725703716"></edge>
+      <edge id="474" source="502" target="57" weight="0.004927388858050108"></edge>
+      <edge id="475" source="522" target="449" weight="0.005247112363576889"></edge>
+      <edge id="476" source="506" target="134" weight="0.005952020175755024"></edge>
+      <edge id="477" source="521" target="467" weight="0.020097671076655388"></edge>
+      <edge id="478" source="523" target="467" weight="0.007778812199831009"></edge>
+      <edge id="479" source="512" target="259" weight="0.006384625565260649"></edge>
+      <edge id="480" source="506" target="123" weight="0.014685342088341713"></edge>
+      <edge id="481" source="505" target="165" weight="0.0036301622167229652"></edge>
+      <edge id="482" source="508" target="165" weight="0.01019198540598154"></edge>
+      <edge id="483" source="516" target="339" weight="0.003517234232276678"></edge>
+      <edge id="484" source="516" target="323" weight="0.009317027404904366"></edge>
+      <edge id="485" source="517" target="352" weight="0.008724028244614601"></edge>
+      <edge id="486" source="519" target="435" weight="0.00854097492992878"></edge>
+      <edge id="487" source="521" target="435" weight="0.009668169543147087"></edge>
+      <edge id="488" source="522" target="450" weight="0.005058322101831436"></edge>
+      <edge id="489" source="510" target="209" weight="0.007416279520839453"></edge>
+      <edge id="490" source="512" target="256" weight="0.007023096550256014"></edge>
+      <edge id="491" source="513" target="269" weight="0.030424663797020912"></edge>
+      <edge id="492" source="504" target="385" weight="0.004779709503054619"></edge>
+      <edge id="493" source="519" target="385" weight="0.010896063409745693"></edge>
+      <edge id="494" source="501" target="38" weight="0.0034370506182312965"></edge>
+      <edge id="495" source="507" target="147" weight="0.015958726406097412"></edge>
+      <edge id="496" source="510" target="220" weight="0.00493747740983963"></edge>
+      <edge id="497" source="516" target="329" weight="0.00488666258752346"></edge>
+      <edge id="498" source="509" target="266" weight="0.006654778495430946"></edge>
+      <edge id="499" source="513" target="266" weight="0.030623778700828552"></edge>
+    </edges>
+  </graph>
+</gexf>
